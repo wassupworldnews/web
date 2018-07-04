@@ -1,6 +1,5 @@
 body {
-  background: #FF5252;
-  background: linear-gradient(to left, #FF5252 40%, #FF1744);
+  background: black;
   padding: 60px;
   color: white;
   font-family: "Lato", sans-serif;
@@ -35,6 +34,15 @@ a:hover {
 code {
   color: #000;
   opacity: 0.5;
+}
+
+img {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 14%;
+  height: auto;
+  margin: 20px 0 0 20px;
 }
 
 #sidebar {
