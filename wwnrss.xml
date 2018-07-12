@@ -1,15 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
-  <channel>
-  <title>Wassup World News RSS Feed</title>
-  <link>http://wassupworldnews.github.io/web/home.html</link>
-  <description>Rebreaking Under-reported News About Earth's Flora and Fauna</description>
-    <item>
-      <title>Weekly Wednesday Wrap Up - July 11, 2018 - Flora and Fauna</title>
-      <link> http://media.blubrry.com/wassupworldnews/content.blubrry.com/wassupworldnews/180711-Wassup_World_News-Wed_Weekly_Wrap_Up.m4a</link>
-      <guid> http://media.blubrry.com/wassupworldnews/content.blubrry.com/wassupworldnews/</guid>
-      <pubDate>Wed, 11 Jul 2018 18:11:11 GMT</pubDate>
-      <description>[CDATA[ *Episode 001* - Rebreaking news regarding Water, Air, Soil, Urban Spaces, Power, People, and the Environment.]]</description>
-    </item>
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+<channel>
+<link>http://wassupworld.github.io/web</link>
+<language>en-us</language>
+<copyright>&#xA9;2018</copyright>
+<webMaster>wassupworldnews@mail.com (Was Sup)</webMaster>
+<managingEditor>wassupworldnews@gmail.com (Was Sup)</managingEditor>
+<image>
+<url>https://i1.sndcdn.com/avatars-000471970503-2j85ax-t300x300.jpg</url>
+<title>Wassup World News</title>
+<link>http://wassupworld.github.io/web/home.html</link>
+</image>
+<itunes:owner>
+<itunes:name>John Brindley</itunes:name>
+<itunes:email>wassupworldnews@mail.com</itunes:email>
+</itunes:owner>
+<itunes:category text="Education">
+<itunes:category text="Higher Education" />
+</itunes:category>
+<itunes:keywords>world news, environment, climate, ocean, water, sea, urban, power, flora, fuana</itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://i1.sndcdn.com/avatars-000471970503-2j85ax-t300x300.jpg" />
+<atom:link href="https://wassupworldnews.github.io/web/wwnrss.xml" rel="self" type="application/rss+xml" />
+<pubDate>Wed, 11 Jul 2018 18:11:11 GMT</pubDate>
+<title>Wednesday Weekly Wrap Up</title>
+<itunes:author>Wassup World News</itunes:author>
+<description>World news regarding environment, climate, ocean, water, sea, urban, power, flora and fuana.</description>
+<itunes:summary>World news regarding environment, climate, ocean, water, sea, urban, power, flora and fuana.</itunes:summary>
+<itunes:subtitle>World news regarding environment, climate, ocean, water, sea, urban, power, flora and fuana.</itunes:subtitle>
+<lastBuildDate>Wed, 11 Jul 2018 18:11:11 GMT</lastBuildDate>
+<item>
+<title>Wassup World News - July 11, 2018 - Wednesday Weekly Wrap Up</title>
+<description>World news regarding environment, climate, ocean, water, sea, urban, power, flora and fuana.</description>
+<itunes:summary>World news regarding environment, climate, ocean, water, sea, urban, power, flora and fuana.</itunes:summary>
+<itunes:subtitle>World news regarding environment, climate, ocean, water, sea, urban, power, flora and fuana.</itunes:subtitle>
+<itunesu:category itunesu:code="112" />
+<enclosure url="http://media.blubrry.com/wassupworldnews/content.blubrry.com/wassupworldnews/180711-Wassup_World_News-Wed_Weekly_Wrap_Up.m4a" type="audio/m4a" length="1" />
+<guid>http://media.blubrry.com/wassupworldnews/content.blubrry.com/wassupworldnews/180711-Wassup_World_News-Wed_Weekly_Wrap_Up.m4a</guid>
+<itunes:duration>0:06:05</itunes:duration>
+<pubDate>Wed, 11 Jul 2018 18:11:11 GMT</pubDate>
+</item>
+</channel>
 </rss>
