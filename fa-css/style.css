@@ -5,27 +5,36 @@ body {
 	font-size: 50%;
 	margin: 0;
 	padding: 0;
-	margin: 0; height: 100%; width: 100%; overflow: hidden
+	margin: 0;
+	margin-top: 10vh;
+	width: 100vw;
+	height: 100vh;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	position: fixed;
+}
+.logo-fa{
+	height: 10vh;
+	width: auto;
 }
 h1 {
 	text-align: center;
 	color: #99D5C9;
-	font-size: 6vw;
+	font-size: 4vh;
 	/* background: rgba(255, 0, 0, 0.36); */
 	margin: 0;
-	padding: 5px;
+	padding: 2vh;
 }
 h2 {
 	text-align: center;
 	color: #99D5C9;
 	margin: 0;
 	padding: 5px;
-	font-size: 3vw;
-	margin-bottom: 10vh;
+	font-size: 2vh;
 }
 
 .wrapper,.copyright {
-	padding: 20%;
+	padding: 5%;
 	text-align: center;
 }
 hr{
@@ -47,14 +56,14 @@ hr{
 
 /*Change icons size here*/
 .social-icons .fa {
-	font-size: 10vh;
+	font-size: 9.5vh;
 	color: white;
 }
 /*Change icons circle size and color here*/
 .social-icons .fa {
-	width: 12vh;
-	height: 12vh;
-	line-height: 12vh;
+	width: 11vh;
+	height: 11vh;
+	line-height: 11vh;
 	text-align: center;
 	color: white;
 	/* color: rgba(255, 255, 255, 0.8); */
